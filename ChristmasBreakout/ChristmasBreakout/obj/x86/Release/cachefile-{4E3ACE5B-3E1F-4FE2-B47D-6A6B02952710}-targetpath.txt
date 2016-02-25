@@ -1,0 +1,8 @@
+Content\fonts\spriteFont.xnb
+Content\fonts\spriteFont2.xnb
+Content\images\ball.xnb
+Content\images\block.xnb
+Content\images\heart.xnb
+Content\images\paddle.xnb
+Content\images\snow.xnb
+Content\images\snowdrift.xnb

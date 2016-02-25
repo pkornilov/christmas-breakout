@@ -1,0 +1,2 @@
+E:\Projects\ChristmasBreakout\ChristmasBreakout\ChristmasBreakoutContent\obj\x86\Debug\ChristmasBreakoutContent.contentprojResolveAssemblyReference.cache
+E:\Projects\ChristmasBreakout2\ChristmasBreakout\ChristmasBreakout\ChristmasBreakoutContent\obj\x86\Debug\ChristmasBreakoutContent.contentprojResolveAssemblyReference.cache
