@@ -3,7 +3,7 @@
 **Christmas Breakout** is an independent edition of the famous Atari Breakout. In the game, there is a layer of blocks (candies) that the player needs to destroy using a ball. The latter travels across the gamespace, so the player has a movable paddle to prevent losing it if the ball touches the bottom of the screen.
 
 ![Preview](ChristmasBreakout/ChristmasBreakoutContent/images/win.gif?raw=true)
-**Gameplay cut short for presentation purposes*
+<br>**Gameplay cut short for presentation purposes*
 
 Built using
 -----------
