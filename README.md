@@ -1,6 +1,6 @@
 # Christmas Breakout
 
-**Christmas Breakout** is an independent edition of the famous Atari Breakout. In the game, there is a wall of blocks that the player needs to destroy using a ball. The ball travels across the gamespace, and the player controls a movable paddle to prevent the ball from falling through the bottom of the screen (i.e. loosing it).
+**Christmas Breakout** is an independent edition of the famous Atari Breakout. In the game, there is a wall of blocks that the player needs to destroy using a ball. The ball travels across the gamespace, and the player controls a movable paddle to prevent the ball from falling through the bottom of the screen (i.e. losing it).
 
 ![Preview](ChristmasBreakout/ChristmasBreakoutContent/images/win.gif?raw=true)
 <br>**Gameplay cut short for presentation purposes*
